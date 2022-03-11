@@ -1,0 +1,23 @@
+
+.app__navbar{
+    color: rgb(216, 216, 216);
+    margin-left: 05rem;
+    @media screen and (max-width:"800px") {
+        margin-left: 0rem;
+    }
+}
+.list{
+width: 8rem;
+margin: 0 0 0 5rem;
+background-color: #0d1522;
+color: rgb(124, 128, 133);
+border-style: hidden;
+font-size: 1.5rem;
+@media screen and(max-width:"500px") {
+    width: 10rem;
+    margin: 2rem 0 0 0;
+    font-size: 1.2rem;
+}
+
+
+}

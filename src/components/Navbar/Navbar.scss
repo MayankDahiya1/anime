@@ -1,0 +1,13 @@
+.app__nav-logo{
+    height: 4rem;
+    width: 4rem;
+    
+}
+a{
+
+    margin : 0 3rem 0 2rem;
+    @media screen and (max-width: 900px) {
+        margin:0
+    }
+    font-size: 1.8rem;
+}
